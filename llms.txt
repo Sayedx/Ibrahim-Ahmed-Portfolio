@@ -28,12 +28,12 @@ Junior BIM Architect at ADD in Alexandria, working on projects in Saudi Arabia a
 
 ## Work
 
-- King Salman Park, Royal Arts Complex: Shop drawings and as-built models for the Hospitality Building kitchen and the Artists' Studios corridor in Riyadh. I produced the plans, sections, reflected ceiling plans and details, built Revit families, and coordinated with structural and MEP. Image: official project render.
-- GAC Showroom, Riyadh: As-built package and full details package for a car showroom. The sets cover the ground floor layout, wall types and finishes, wet areas, brand walls, the Najdi GRC corner and glass work.
-- Engineers Syndicate Building, Luxor: A multi-use building with a bank branch, syndicate services, offices and hotel units. I developed the architectural plans during the design phase and prepared the tender drawings after the win. Outcome: First Prize in the design competition, won by the ADD team.
-- Engineers Syndicate Club and Offices, New Aswan: Design competition entry for a social club and administrative building. The drawing set runs from basement to roof plans, with elevations, sections and an exploded axonometric.
-- Ta'if Eco-Resort: ADD's entry to the AIA Middle East International Design Competition: a regenerative eco-resort masterplan in the Ta'if Highlands. I produced the masterplan drawing, site sections and elevations.
-- Grand Diamond Hotel: A stepped riverside hotel in Badrashin, Giza, between the River Nile and the railway. The main block terraces down so most rooms look over the river.
+- [King Salman Park, Royal Arts Complex](projects/king-salman-park-royal-arts-complex.html): Shop drawings and as-built models for the Hospitality Building kitchen and the Artists' Studios corridor in Riyadh. I produced the plans, sections, reflected ceiling plans and details, built Revit families, and coordinated with structural and MEP. Image: official project render.
+- [GAC Showroom, Riyadh](projects/gac-showroom-riyadh.html): As-built package and full details package for a car showroom. The sets cover the ground floor layout, wall types and finishes, wet areas, brand walls, the Najdi GRC corner and glass work.
+- [Engineers Syndicate Building, Luxor](projects/engineers-syndicate-building-luxor.html): A multi-use building with a bank branch, syndicate services, offices and hotel units. I developed the architectural plans during the design phase and prepared the tender drawings after the win. Outcome: First Prize in the design competition, won by the ADD team.
+- [Engineers Syndicate Club and Offices, New Aswan](projects/engineers-syndicate-club-and-offices-new-aswan.html): Design competition entry for a social club and administrative building. The drawing set runs from basement to roof plans, with elevations, sections and an exploded axonometric.
+- [Ta'if Eco-Resort](projects/taif-eco-resort.html): ADD's entry to the AIA Middle East International Design Competition: a regenerative eco-resort masterplan in the Ta'if Highlands. I produced the masterplan drawing, site sections and elevations.
+- [Grand Diamond Hotel](projects/grand-diamond-hotel.html): A stepped riverside hotel in Badrashin, Giza, between the River Nile and the railway. The main block terraces down so most rooms look over the river.
 
 ## Experience
 
